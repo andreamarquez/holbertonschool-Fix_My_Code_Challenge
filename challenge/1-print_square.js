@@ -1,4 +1,4 @@
-#!/Users/andrea/.nvm/versions/node/v20.15.1/bin/node
+#!/usr/bin/node
 /*
     Print a square with the character #
     
