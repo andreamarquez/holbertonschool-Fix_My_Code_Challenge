@@ -1,4 +1,3 @@
-// filepath: /Users/andrea/projects/holbertonschool-Fix_My_Code_Challenge/challenge/4-delete_dnodeint/lists.h
 #ifndef _LISTS_H_
 #define _LISTS_H_
 
